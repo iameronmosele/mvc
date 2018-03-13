@@ -1,0 +1,28 @@
+{
+  "name": "mvc",
+  "version": "1.0.0",
+  "description": "A good starting point for learning about the mvc architecture in php",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iameronmosele/mvc.git"
+  },
+  "author": "@iameronmosele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iameronmosele/mvc/issues"
+  },
+  "homepage": "https://github.com/iameronmosele/mvc#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "grunt-php": "^1.5.1",
+    "gulp": "^3.9.1",
+    "gulp-connect-php": "^1.0.3"
+  },
+  "dependencies": {
+    "save-dev": "^2.0.0"
+  }
+}
